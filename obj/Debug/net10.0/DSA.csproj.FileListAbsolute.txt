@@ -1,0 +1,14 @@
+C:\Users\iamam\OneDrive\Desktop\DSa By Ajit\DSA\bin\Debug\net10.0\DSA.exe
+C:\Users\iamam\OneDrive\Desktop\DSa By Ajit\DSA\bin\Debug\net10.0\DSA.deps.json
+C:\Users\iamam\OneDrive\Desktop\DSa By Ajit\DSA\bin\Debug\net10.0\DSA.runtimeconfig.json
+C:\Users\iamam\OneDrive\Desktop\DSa By Ajit\DSA\bin\Debug\net10.0\DSA.dll
+C:\Users\iamam\OneDrive\Desktop\DSa By Ajit\DSA\bin\Debug\net10.0\DSA.pdb
+C:\Users\iamam\OneDrive\Desktop\DSa By Ajit\DSA\obj\Debug\net10.0\DSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamam\OneDrive\Desktop\DSa By Ajit\DSA\obj\Debug\net10.0\DSA.AssemblyInfoInputs.cache
+C:\Users\iamam\OneDrive\Desktop\DSa By Ajit\DSA\obj\Debug\net10.0\DSA.AssemblyInfo.cs
+C:\Users\iamam\OneDrive\Desktop\DSa By Ajit\DSA\obj\Debug\net10.0\DSA.csproj.CoreCompileInputs.cache
+C:\Users\iamam\OneDrive\Desktop\DSa By Ajit\DSA\obj\Debug\net10.0\DSA.dll
+C:\Users\iamam\OneDrive\Desktop\DSa By Ajit\DSA\obj\Debug\net10.0\refint\DSA.dll
+C:\Users\iamam\OneDrive\Desktop\DSa By Ajit\DSA\obj\Debug\net10.0\DSA.pdb
+C:\Users\iamam\OneDrive\Desktop\DSa By Ajit\DSA\obj\Debug\net10.0\DSA.genruntimeconfig.cache
+C:\Users\iamam\OneDrive\Desktop\DSa By Ajit\DSA\obj\Debug\net10.0\ref\DSA.dll
