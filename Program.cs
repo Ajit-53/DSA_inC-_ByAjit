@@ -4,7 +4,7 @@ public class Test
 {
     public static void Main(String[] args)
     {
-        First fs=new First();
+        Basic fs=new Basic();
         fs.Test();
     }
 }
