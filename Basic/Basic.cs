@@ -3,6 +3,7 @@ using System.Text;
 
 public class Basic
 {
+
     public void Test()
     {
         // 1. Input / Output
